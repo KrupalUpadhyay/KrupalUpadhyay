@@ -4,7 +4,7 @@
 
 ---
 
-🚀 I am passionate about leveraging data and machine learning to solve real-world problems. My expertise spans across building machine learning models, data analysis, and creating impactful AI solutions. I enjoy collaborating on innovative projects, especially those related to artificial intelligence, natural language processing, and deep learning.
+🚀 I am passionate about leveraging data and machine learning to solve real-world problems. My learnings span across building machine learning models, data analysis, and creating impactful AI solutions. I enjoy collaborating on innovative projects, especially those related to artificial intelligence, natural language processing, and deep learning.
 
 ---
 
@@ -49,14 +49,14 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrupalUpadhyay&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrupalUpadhyay&layout=compact&theme=radical)
 
 ---
 
 ### 🖥️ Contribution Graph:
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KrupalUpadhyay&theme=react-dark)
 
 ---
 
