@@ -1,5 +1,5 @@
 ## Hi, I'm Krupal Upadhyay! 👋
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+Profile+!+!+!)
 ### 🌟 AI/ML Enthusiast | Data Science Explorer | Software Developer 
 
 ---
@@ -54,7 +54,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrupalUpadhyay&layout=compact&theme=radical)
 
 ---
-
 ### 🌍 Let's Connect and Collaborate!
 I am always open to interesting projects in the fields of AI, ML, and Data Science. Feel free to reach out if you would like to collaborate or discuss innovative ideas!
 
