@@ -49,8 +49,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrupalUpadhyay&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrupalUpadhyay&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrupalUpadhyay&layout=compact&theme=radical)
 
