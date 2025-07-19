@@ -1,7 +1,7 @@
 ## Hi, I'm Krupal Upadhyay! 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+Profile+!+!+!)
 ### 🌟 AI/ML Enthusiast | Data Science Explorer | Software Developer 
-
+Mtech'25 Cyber Physical Systems @ IIT Jodhpur
 ---
 
 🚀 I am passionate about leveraging data and machine learning to solve real-world problems. My learnings span across building machine learning models, data analysis, and creating impactful AI solutions. I enjoy collaborating on innovative projects, especially those related to artificial intelligence, natural language processing, and deep learning.
