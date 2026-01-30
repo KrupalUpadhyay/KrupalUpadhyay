@@ -11,9 +11,9 @@
 I enjoy crafting intelligent systems in:
 
 - 🤖 Computer Vision (Object Detection, Forensics, Autonomous Driving)
-- 💬 Natural Language Processing (Chatbots, Sentiment Analysis, AI Business Tools)
+- 💬 Natural Language Processing (Chatbots, Sentiment Analysis)
 - 🔧 Backend Engineering & AI APIs
-- 📊 Data-Driven Decision Systems
+- 📊 Data-Driven Decision Systems (AI Business Tools)
 
 Always learning, always building. Let's innovate together!
 
