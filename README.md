@@ -1,11 +1,10 @@
 ## 👋 Hi, I'm Krupal Upadhyay!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+ML+%7C+Systems+%7C+Innovation)
 
-### 🌟 AI/ML Dev | Software Dev | MTech @ IIT Jodhpur 
+### AI | ML Based Systems | Computer Vision | Perception 
 🎓 M.Tech'25 – Cyber Physical Systems @ IIT Jodhpur  
 🔭 Internship @ L&T Energy & Hydrocarbon – AI & Automation  
 🎯 GATE CSE 2025 – AIR 2284 | Score: 639  
-
 ---
 
 🚀 I’m passionate about building impactful AI tools and automation systems to solve real-world problems.  
@@ -62,13 +61,13 @@ Always learning, always building. Let's innovate together!
 
 ### 💻 Recent Projects:
 
-- **[Real-Time Sentiment Analysis Application](https://github.com/yourusername/sentiment-analysis-app)**  
+- **[Real-Time Sentiment Analysis Application](https://github.com/KrupalUpadhyay/sentiment-analysis-app)**  
   Built a real-time sentiment analysis application using Python, Twitter API, NLP techniques, and machine learning to classify sentiments from live tweets. The web app was deployed using Streamlit.
 
-- **[NO2 Levels Prediction with GANs](https://github.com/yourusername/NO2-prediction)**  
+- **[NO2 Levels Prediction with GANs](https://github.com/KrupalUpadhyay/NO2-prediction)**  
   Developed a Generative Adversarial Network (GAN) model for predicting fine spatial resolution NO2 air quality maps using coarse satellite data, traffic, and weather information. Implemented uncertainty quantification techniques with Bayesian methods.
 
-- **[Sales Forecasting Model](https://github.com/yourusername/sales-forecasting)**  
+- **[Sales Forecasting Model](https://github.com/KrupalUpadhyay/sales-forecasting)**  
   A machine learning model that predicts sales for a retail company using historical sales data and features like holidays, promotions, and seasonality.
 
 ---
