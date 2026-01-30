@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Krupal Upadhyay!
+## Hi, I'm Krupal Upadhyay!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+ML+%7C+Systems+%7C+Innovation)
 
 ### AI | ML Based Systems | Computer Vision | Perception 
@@ -7,7 +7,7 @@
 🎯 GATE CSE 2025 – AIR 2284 | Score: 639  
 ---
 
-🚀 I’m passionate about building impactful AI tools and automation systems to solve real-world problems.  
+I’m passionate about building impactful AI tools and automation systems to solve real-world problems.  
 I enjoy crafting intelligent systems in:
 
 - 🤖 Computer Vision (Object Detection, Forensics, Autonomous Driving)
