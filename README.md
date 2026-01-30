@@ -10,8 +10,8 @@
 🚀 I’m passionate about building impactful AI tools and automation systems to solve real-world problems.  
 I enjoy crafting intelligent systems in:
 
-- 🤖 Computer Vision (Object Detection, Forensics)
-- 💬 Natural Language Processing (Chatbots, Sentiment Analysis)
+- 🤖 Computer Vision (Object Detection, Forensics, Autonomous Driving)
+- 💬 Natural Language Processing (Chatbots, Sentiment Analysis, AI Business Tools)
 - 🔧 Backend Engineering & AI APIs
 - 📊 Data-Driven Decision Systems
 
