@@ -17,9 +17,7 @@ Currently working on:
 |---|---|---|
 | **TalentGraph** | ML · Retrieval · Ranking | 🟢 Active |
 | **Neural LiDAR Mapping** | LiDAR · 3D · Neural Fields | 🔬 Research |
-| **NEXUS** | AI Systems · LLM Infrastructure | 🛠️ Building |
-| **Amazon ML Challenge** | ML · Entity Matching | ⚡ Experimenting |
-
+| **NEXUS** | AI Systems · LLM Infrastructure | 🛠️ Recently Built |
 ---
 
 ```text
